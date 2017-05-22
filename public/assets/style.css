@@ -16,10 +16,12 @@ li {
 }
 .first{
 	float: left;
+	width: 33%;
 }
 
 .second{
 	float: right;
+	width: 33%;
 }
 
 .third{
